@@ -26,8 +26,6 @@ body {
   line-height: 1.6;
 }
 
-/* HERO */
-
 .hero {
   padding: 3.5rem 1.5rem 2rem;
 }
@@ -81,8 +79,6 @@ body {
   z-index: 1;
 }
 
-/* BUTTONS */
-
 .btn {
   border-radius: 999px;
   padding: 0.6rem 1.3rem;
@@ -120,7 +116,6 @@ body {
   transform: translateY(-1px);
 }
 
-/* LAYOUT PRINCIPAL */
 
 .container {
   max-width: 900px;
@@ -144,7 +139,7 @@ body {
 .chips {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.35rem;          /* espacio entre chips */
+  gap: 0.35rem;         
 }
 
 .chips span {
